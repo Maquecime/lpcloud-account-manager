@@ -16,7 +16,7 @@ If the demand is approved, the account of the requested user is credited, else, 
 * AppManager
 * Databases (Google Datastore)
 
-##Heroku Services :
+## Heroku Services :
 
 * LoanApproval
 * CheckAccount
@@ -60,7 +60,7 @@ To navigate between multiple projects, you'll also need this
     $ gcloud config set project <your-project-name>
     
 
-##On Heroku
+## On Heroku
 
 Start by installing heroku cli :
 
@@ -80,7 +80,7 @@ Push to master :
     
 ___
     
-#####How2 Commit your local changes ? 
+##### How2 Commit your local changes ? 
 
 ---
 
